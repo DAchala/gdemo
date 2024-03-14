@@ -1,0 +1,52 @@
+In the previous blog, you got an understanding of what git is. In this blog, I will talk about the Top 20 Git Commands that you will be using frequently while you are working with Git.
+
+Here are the Git commands which are being covered:
+
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+So, let's get started!
+
+Related: Gitlab CI/CD Tutorial.
+
+Git Commands
+git config
+Usage: git config –global user.name “[name]”  
+
+Usage: git config –global user.email “[email address]”  
+
+This command sets the author name and email address respectively to be used with your commits.
+
+Git Config Command - Git Commands - Edureka
+
+git init
+Usage: git init [repository name]
+
+ 
+
+This command is used to start a new repository.
+
+GitInit Command - Git Commands - Edureka
+
+git clone
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+Git Clone Command - Git Commands - Edureka
