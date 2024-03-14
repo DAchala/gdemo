@@ -27,6 +27,7 @@ Related: Gitlab CI/CD Tutorial.
 
 Git Commands
 git config
+
 Usage: git config –global user.name “[name]”  
 
 Usage: git config –global user.email “[email address]”  
@@ -49,4 +50,9 @@ Usage: git clone [url]
 
 This command is used to obtain a repository from an existing URL.
 
-Git Clone Command - Git Commands - Edureka
+Git Clone Command - Git Commands - 
+
+
+
+
+Assignment 2a
